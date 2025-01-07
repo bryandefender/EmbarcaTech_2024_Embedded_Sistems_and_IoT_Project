@@ -1,1 +1,26 @@
+//EMBARCATECH 2024 - Bryan Santos Sousa
+// Unidade 03 - Capitulo 01 - Aula 01 - Slides -> Introdução a linguagem C
+
+
+//Exercicios Resolvidos: "Calcular o delta = b² - 4*a*c de uma equacao do segundo grau" 
+
+#include<stdio.h>
+#include<math.h>
+
+int main(){
+
+    float a, b, c;
+    float delta;
+
+    printf("\nDigite respectivamente os valores de a, b e c: ");
+    scanf("%f %f %f", &a, &b, &c );
+
+    delta = pow(b, 2) - 4 * a* c;
+
+    printf("\nO valor de delta eh: %2.f", delta);
+
+return 0;
+
+}
+
 
