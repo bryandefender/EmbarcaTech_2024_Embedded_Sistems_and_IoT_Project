@@ -1,3 +1,3 @@
-# EmbarcaTech_2024_Embedded_Sistems_and_IoT_Project
+# Embedded Systems and Iot Project 
 
-### Embedded System and Iot Project 
+### [Embedded Systems and Iot Project ](https://embarcatech.softex.br/inscricoes/)
